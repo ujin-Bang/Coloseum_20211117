@@ -31,7 +31,7 @@
             android:layout_marginTop="10dp"/>
 
         <EditText
-            android:id="@+id/edtPasswrord"
+            android:id="@+id/edtPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="비밀번호"
@@ -41,7 +41,7 @@
             android:id="@+id/btnLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="로그인"
+            android:text="로그인"/>
     </LinearLayout>
 </layout>
 
