@@ -28,6 +28,8 @@ class MainActivity : BaseActivity() {
 
         binding.btnLogin.setOnClickListener {
 
+            binding.btnLogin
+
 
             val inputEmail = binding.edtEmail.text.toString()
             val inputPw = binding.edtPassword.text.toString()
